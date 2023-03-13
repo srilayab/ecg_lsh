@@ -1,0 +1,6 @@
+1) Y. B. Kim and U. -M. O'Reilly, "Analysis of locality-sensitive hashing for fast critical event prediction
+on physiological time series," 2016 38th Annual International Conference of the IEEE Engineering in Medicine
+and Biology Society (EMBC), Orlando, FL, USA, 2016, pp. 783-787, doi: 10.1109/EMBC.2016.7590818.
+(https://alfagroup.csail.mit.edu/sites/default/files/documents/2017%20Physiological%20Time%20Series%20Retrieval%20and%20Prediction%20with%20Locality-Sensitive%20Hashing.%20Y.%20Bryce%20Kim%2C%20PhD%20thesis%2C%20MIT%20Dept%20of%20EECS%2C%20June%202017..pdf)
+
+2) dataset: https://physionet.org/content/ptb-xl/1.0.3/
